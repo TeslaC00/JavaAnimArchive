@@ -1,0 +1,26 @@
+.left-panel {
+    -fx-background-color: #808080;
+    -fx-padding: 20;
+    -fx-spacing: 15;
+}
+
+#main-heading {
+    -fx-fill: #1ff0ff;
+    -fx-font-family: Consolas;
+    -fx-font-size: 2.3em;
+    -fx-font-weight: bold;
+}
+
+#margin {
+    -fx-stroke-width: 3;
+    -fx-stroke: #222222;
+}
+
+.left-panel .button {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+    -fx-background-radius: 10;
+    -fx-font-size: 1.1em;
+    -fx-font-family: Consolas;
+    -fx-font-weight: bold;
+}
